@@ -1,5 +1,6 @@
 Bright OS was written in Nasm, it is 16-bit, I write it as a hobby. Now I am developing a new version (current version: 0.98 alpha)
 
+- bootloader (only loads into sectors, in the new version the kernel.bin)
 - Base terminal
 - Mini io lib
 
